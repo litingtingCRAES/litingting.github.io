@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "lilittttttttttttttt111"
+title                    : "lilittttttttttttttt11100"
 title_separator          : "-"
 name                     : &name "Litingting0"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "litingting"
-  avatar           : "images/songfanhao.png"
+  avatar           : "/images/songfanhao.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
