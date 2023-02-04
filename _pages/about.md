@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Litingting
+Litingting0
 
 A data-driven personal website
 ======
